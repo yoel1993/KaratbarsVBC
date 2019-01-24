@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".CryptoActivity"
+    tools:showIn="@layout/activity_bienvenido">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/text_bienvenido_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:lineSpacingExtra="4dp"
+            android:text="@string/large_text_bienvenidos_1"
+            android:textIsSelectable="true"
+            android:layout_centerHorizontal="true"
+            android:textSize="16sp"
+            android:textColor="@color/black" />
+        <Button
+            android:text="@string/button_cripto_video_presentacion"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/boton_bienvenido_video"
+            android:textColor="@color/colorAccent"
+            android:gravity="center_vertical|center|fill"
+            android:layout_gravity="center"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:id="@+id/st"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:lineSpacingExtra="@dimen/text_margin_very_small"
+            android:text="@string/large_text_bienvenidos_2"
+            android:textIsSelectable="true" />
+
+
+
+   </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

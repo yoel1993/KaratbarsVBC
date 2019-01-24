@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_karatbars"
+            android:icon="@drawable/ic_action_homekaratbars"
+            android:title="@string/nav_karatbars" />
+        <item
+            android:id="@+id/nav_crypto"
+            android:icon="@drawable/ic_action_cripto"
+            android:title="@string/nav_crypto" />
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_action_noticias"
+            android:title="@string/nav_news" />
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/ic_action_faqs"
+            android:title="@string/nav_faq" />
+    </group>
+
+    <group android:id="@+id/group_about">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="@string/nav_about" />
+        <item
+            android:id="@+id/nav_donate"
+            android:icon="@drawable/ic_monetization_on_black_24dp"
+            android:title="@string/nav_donate" />
+        <item
+            android:id="@+id/nav_my_apps"
+            android:icon="@drawable/ic_apps_black_24dp"
+            android:title="@string/nav_my_apps" />
+    </group>
+
+</menu>

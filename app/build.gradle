@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    defaultConfig {
+        applicationId "com.yoelrp.karatbarsvbc"
+        minSdkVersion 15
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:26.+'
+    implementation 'com.android.support.constraint:constraint-layout:1.+'
+    implementation 'com.android.support:design:26.+'
+    implementation 'com.android.support:support-v4:26.+'
+    implementation 'com.android.support:gridlayout-v7:26.+'
+    implementation 'com.android.support:cardview-v7:26.+'
+    implementation 'com.android.support:recyclerview-v7:26.+'
+    implementation 'com.google.android.gms:play-services-maps:10.2.0'
+    implementation 'com.github.bumptech.glide:glide:3.6.0'
+    implementation files('libs/com.android.volley.jar')
+    implementation project(':dexter-5.0.0')
+}

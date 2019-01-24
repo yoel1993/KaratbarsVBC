@@ -1,0 +1,860 @@
+<resources>
+    <string name="app_name">Karatbars VBC</string>
+    <string name="app_designed_by">Diseñado por YoelRP en Cuba</string>
+
+    <!-- Strings related to Bienvenidos-->
+    <string name="title_activity_bienvenidos">Bienvenidos</string>
+    <string name="large_text_bienvenidos_1">
+        "\n\n"
+        "Presentación de Karatbars International GbmH"
+        "\n"
+    </string>
+    <string name="large_text_bienvenidos_2">
+        "Karatbars International surge en el 2011 a la idea del señor Harald Seiz quien es CEO y fundador de la empresa."
+        "\n\n"
+        "Esta empresa está actualmente activa en más de 120 países. Su sede se encuentra en Stuttgart, Alemania. Su objetivo es producir nada más y nada menos que lingotes de oro 999,9 milésimas de pureza de 24k en pequeñas cantidades de 1 gramo, 2.5 y 5 gramos haciendo que este producto sea asequible para cualquier bolsillo."
+        "\n\n"
+        "Este es el oro de más alta calidad disponible y viene termosellado dentro de un plástico de alta calidad del tamaño de una tarjeta de crédito y está plenamente acreditado por la LBMA, por sus siglas, la Asociación del Mercado de Metales Preciosos de Londres."
+        "\n\n"
+        "Ahora déjame dejarle algo claro no estamos pidiendo a nadie comprar algo, nosotros simplemente estamos intercambiando una parte de nuestro papel moneda por dinero real que es el oro."
+        "\n\n"
+        "Así que permítame hacerle una pregunta aquí: ¿Si usted pudiera intercambiar una parte de su papel moneda por oro físico 999,9 milésimas de pureza de 24kproducido por la refinería acreditada por la LBMA y ganar una jugosa comisión por solo referir a otros, lo haría?"
+        "\n\n"
+        "Lo más seguro que sí. Creo que solo pocas veces en la vida se presenta en nuestro camino una oportunidad realmente fantástica, y que algunas personas dejan escapar, y luego se quejan diciendo, oh, pero él tuvo suerte, ella tuvo suerte, o ellos tienen buenos contactos, la educación adecuada, el círculo de amistades adecuados y bla bla bla bla… y nunca asumen su responsabilidad y toman ventaja de estas oportunidades."
+        "\n\n"
+        "Bueno, creo que la suerte se define como cuando la oportunidad coincide con la preparación, y creo que esta es una de esas ocasiones en que la oportunidad toca a su puerta. Pero la pregunta es: ¿Está usted preparado para aprovecharla?"
+        "\n\n"
+        "Espero que si por su bien."
+        "\n\n\n"
+    </string>
+    <string name="main_card0_title_0">Bienvenidos</string>
+    <string name="main_card0_title_1">Presentación de Karatbars</string>
+    <string name="main_card0_title_2">Más Detalles</string>
+    <string name="main_card0_title_3">Aquí</string>
+
+
+    <!-- Strings related to Karatbars International GbmH-->
+    <string name="main_card1_title">Karatbars International GmbH</string>
+    <string name="main_card1_subtitle">Posiblemente estés buscando una manera sólida para prosperar en tu vida...</string>
+    <string name="main_card1_button">Seguir Lectura...</string>
+    <string name="title_activity_karatbars">Karatbars</string>
+    <string name="boton_karatbars_video_1">Ver Video 1</string>
+    <string name="boton_karatbars_video_2">Ver Video 2</string>
+    <string name="boton_karatbars_video_3">Ver Video 3</string>
+    <string name="boton_karatbars_registrarse">HACIENDO CLICK AQUÍ</string>
+    <string name="text_karatbars_1">
+        "\n"
+        "Posiblemente estés buscando una manera sólida para prosperar en tu vida."
+        "\n\n"
+        "Independientemente de tu situación personal, económica o laboral actual aquí vas a descubrir que la opción de negocio que ofrece Karatbars International está entre las más brillantes del mundo, y que podrás comenzarla en paralelo a tu actividad actual."
+        "\n"
+        "Karatbars International tiene oficinas físicas en:"
+        "\n\n"
+        "1- Stuttgart"
+        "\n"
+        "2- Tailandia"
+        "\n"
+        "3- República Checa"
+        "\n"
+        "4- Nueva York"
+        "\n"
+        "5- Eslovenia"
+        "\n"
+        "6- España"
+        "\n"
+        "7- Costa Rica"
+        "\n\n"
+        "Tiene una gama de productos altamente exclusivos, que son entregados en el domicilio de los clientes a través de FedEx y Prosegur , estas dos compañías reconocidas mundialmente están asociadas a Karatbars International."
+        "\n\n"
+        "Es un negocio basado en un producto que todo el mundo conoce, el oro, y sencillo porque es fácilmente duplicable."
+        "\n\n"
+        "La visión de Karatbars International es innovadora, y el concepto, muy poderoso: establecida ya en más de 120 países, nuestro principal objetivo es hacer posible que todo el mundo pueda tener oro, sin importar su poder adquisitivo. Desde tan solo 1 gramo y además poder hacerlo de forma mensual en el plan de ahorros más inteligente de todo el mercado."
+        "\n\n"
+        "Karatbars ha comprendido la seguridad que el oro físico de inversión proporciona a cualquier persona para proteger su dinero ante la inflación y la devaluación monetaria. El “papel moneda” pierde valor diariamente. El oro es limitado y alcanzará un valor impensable cuando se agoten las reservas."
+        "\n\n"
+        "Elige un lugar tranquilo, desconéctate por un momento del mundo y tómate tu tiempo necesario."
+        "\n\n"
+        "Comienza con el primer vídeo y tranquilamente sigue hasta el último."
+        "\n\n"
+        "Estoy seguro de que te va a encantar…"
+        "\n"
+        </string>
+
+    <string name="text_karatbars_2">
+        "\n"
+        "¿Cómo inicio en el negocio?"
+        "\n\n"
+        "1- Regístrese como afiliado de forma gratuita"
+    </string>
+    <string name="text_karatbars_3">
+        "2-Envíe sus documentos KYC (documento de identidad y recibo domiciliario (son necesarios para evitar el blanqueo de capitales) estos documentos tardan hasta 1 día en ser aprobados."
+        "\n"
+        "3-Adquiera su licencia comprando un PACK DE NEGOCIO (SILVER, GOLD, VIP O VIP EXCLUSIVE)."
+        "\n"
+        "4-Una vez haya realizado los pasos anteriores su patrocinador se pondrá en contacto con usted para crear un plan de trabajo y proporcionarle todas las herramientas de trabajo e información necesarias."
+        "\n"
+    </string>
+    <string name="text_karatbars_4">
+        "\n"
+        "¿Qué le ofrece la franquicia Karatbars International?"
+        "\n\n"
+        "Crear su propio negocio y trabajar con la mejor y más prestigiosa empresa de venta de oro de Alemania, reconocida por la BDS (federación de ahorristas más importante del país) como la mejor opción y la más fiable para invertir en oro en pequeños lingotes desde solo 1 gramo."
+        "\n\n"
+        "Dispondrá de un producto que es un recurso natural apreciado en todo el mundo. ORO puro, de 24 quilates de 999,9 milésimas de pureza y con las mejores certificaciones que existen, incluido el certificado del LBMA."
+        "\n"
+    </string>
+    <string name="text_karatbars_5">
+        "\n"
+        "Te mostraremos las razones más frecuentes por las que las personas deciden unirse."
+        "\n\n"
+        "Ingresos Extras"
+        "\n"
+        "Libertad Financiera"
+        "\n"
+        "Tener un Negocio Propio"
+        "\n"
+        "Tener Tiempo"
+        "\n"
+        "Desarrollo Personal"
+        "\n"
+        "Ayudar a los Demás"
+        "\n"
+        "Conocer Gente Nueva"
+        "\n"
+        "Mejor Jubilación"
+        "\n"
+        "Dejar Herencia"
+        "\n\n"
+        "Antes de meternos de lleno en la cuestión debemos recordarte:"
+        "\n\n"
+        "EL ÉXITO o EL FRACASO DEPENDE 100% DE TÍ."
+        "\n"
+        "ACEPTA LA RESPONSABILIDAD DE TODO LO QUE TE PASE."
+        "\n"
+        "DECIDE SER PROFESIONAL."
+        "\n"
+        "Acepta La RESPONSABILIDAD"
+        "\n\n"
+        "Ahora formúlate estas tres preguntas:"
+        "\n\n"
+        "¿Quiero superar el momento actual en el que estoy?"
+        "\n"
+        "¿Dispongo de una hora al día?"
+        "\n"
+        "¿Puedo comprometerme conmigo mismo?"
+        "\n\n"
+        "Si tus respuestas son afirmativas, es el momento de actuar…"
+        "\n"
+    </string>
+    <string name="text_karatbars_6">
+        "\n"
+        "Gold - Karatbars International"
+        "\n\n\n"
+
+    </string>
+
+
+
+    <!-- Strings related to Criptomonedas-->
+    <string name="title_activity_crypto">Criptomonedas</string>
+    <string name="main_card2_title2">Criptomonedas Karatbars</string>
+    <string name="main_card2_button">Detalles...</string>
+    <string name="button_cripto_video_presentacion">Ver Video Presentación</string>
+    <string name="button_cripto_video_entrevista">Entrevista Harald Seiz</string>
+    <string name="large_text_cripto_1">
+        "\n\n"
+        "KaratGold Coin (KBC)"
+        </string>
+    <string name="large_text_cripto_2">
+        "KaratGold Coin (KBC) es una criptomoneda basada en blockchain. Específicamente diseñado para ser utilizado como un medio de pago electrónico generalmente aceptado para todos los que consideran el oro como un medio tradicional, verdadero, seguro y de valor estable."
+        "\n"
+    </string>
+    <string name="large_text_cripto_3">
+        "\n"
+        "Problema"
+    </string>
+    <string name="large_text_cripto_4">
+        "En otros tiempos, el oro era un medio de pago directo, especialmente en forma de monedas de oro. Sin embargo, el oro ha sido reemplazado continuamente por billetes de banco, que en la actualidad no tienen, o solo tienen un porcentaje marginal, el respaldo del oro estatal. Por lo tanto, el valor de los billetes emitidos por los diferentes países se basa en la confianza de que el país respectivo puede pagar sus facturas. Solo que esto es menos seguro que en otros tiempos. Especialmente en los países menos desarrollados, la confiabilidad de la moneda de curso legal se mueve hacia cero."
+        "\n"
+    </string>
+    <string name="large_text_cripto_5">
+        "\n"
+        "Solución"
+    </string>
+    <string name="large_text_cripto_6">
+        "KaratGold Coin responde perfectamente a las necesidades mundiales porque se basa en el oro. Cada moneda representa un cierto peso de oro y puede en todo momento intercambiarse en oro físico en la forma de CashGold. Además, se puede cambiar por todas las monedas fiduciarias y criptomonedas de todo el mundo."
+        "\n\n"
+        "La moneda es oro criptonizado que se puede transferir sin fronteras, de forma rentable, segura y en tiempo real. Su valor es predecible porque el valor del oro tiene una larga tradición y todos tienen una idea sobre su estabilidad. Por lo tanto, la Moneda tiene la capacidad de ser generalmente aceptada en todo el mundo."
+        "\n"
+    </string>
+    <string name="large_text_cripto_7">
+        "\n"
+        "Detalles sobre la moneda:"
+        "\n\n"
+        "La “Moneda” se basa en el protocolo de cadena de bloques de Ethereum. Por lo tanto, es seguro, rentable y rápido. Además, permite usar contratos inteligentes dentro de su protocolo."
+        "\n\n"
+        "Token name:	KaratGold Coin"
+        "\n"
+        "Ticker Symbol:	KBC"
+        "\n"
+        "Starting Price: Pre-ICO 1 KBC for USD 0.01"
+        "\n"
+        "Starting Price: ICO 1 KBC for USD 0.05"
+        "\n"
+        "Maximum KBC produced:	12 billion (technical limit)"
+        "\n"
+        "Maximum KBC for Sale:	7.2 billion"
+        "\n"
+        "Fundraising Goal:	USD 72 million"
+        "\n"
+        "Methods of KBC purchase:	Bitcoin, Ethereum, Dash, Litecoin, XEM and FIAT payments"
+        "\n"
+    </string>
+
+    <string name="large_text_cripto_8">
+        "\n"
+        "KaratCoinBank (KCB)"
+    </string>
+    <string name="large_text_cripto_9">
+        "La Moneda del primer Criptobanco del mundo."
+        "\n"
+        "Cubierto por una tecnología de blockchain innovadora y de reciente desarrollo, KaratCoinBank (KCB) es una criptomoneda transparente, con Blockchain, todos podemos ver dónde y cómo se almacena el oro y qué moneda especulativa se cubre con oro."
+        "\n"
+    </string>
+    <string name="large_text_cripto_10">
+        "\n"
+        "Detalles sobre la moneda:"
+        "\n\n"
+        "Nombre del Token:	KaratCoin Bank Coin"
+        "\n"
+        "Símbolo ticker:	KCB"
+        "\n"
+        "Token Estándar:	ERC20"
+        "\n"
+        "El precio actual:	0.14€"
+        "\n"
+        "Cantidad máxima de KCB en venta:	50 mil millones"
+        "\n"
+        "Meta de recaudación de fondos:	mil millones"
+        "\n"
+        "Compra mínima:	1000 KCB"
+        "\n"
+        "Métodos de pago:	BTC, ETH y KaratPAY"
+        "\n"
+    </string>
+    <string name="large_text_buy_kbc">
+        "Compra KBC en los mejores EXCHANGE"
+        "\n\n"
+    </string>
+
+
+
+
+
+
+
+    <!-- Strings related to FAQs -->
+    <string name="title_activity_faqs">FAQs</string>
+    <string name="main_card3_title">FAQs</string>
+    <string name="main_card3_subtitle">Preguntas y Respuestas</string>
+    <string name="main_card3_details">Más detalles</string>
+    <string name="main_card3_button">Leer...</string>
+    <string name="large_text_faqs_1">
+        "\n"
+        "¿Quién es Karatbars International?"
+    </string>
+    <string name="large_text_faqs_2">
+        "www.karatbars.com es la página de inicio del grupo Karatbars. Esta empresa está diseñada para venta de metales preciosos, especialmente pequeños lingotes de oro, incrustados en tarjetas de diseño que incluyen las certificaciones. Gracias a nuestra actividad independiente de los bancos, podemos ofrecer una selección de productos adecuados sin la influencia de los intereses sociales externos."
+        "\n\n"
+        "Karatbars International es una compañía comercial presente en Internet y sus productos pueden ser enviados a todo el mundo, a una lista de países cada vez más grande y en constante expansión."
+        "\n"
+    </string>
+    <string name="large_text_faqs_3">
+        "\n"
+        "¿Es Karatbars legal?"
+    </string>
+    <string name="large_text_faqs_4">
+        "Sí, Karatbars es una empresa registrada legalmente en Alemania y cumple con la legislación vigente de los más de 120 países en los que ha abierto sus operaciones."
+        "\n"
+    </string>
+    <string name="large_text_faqs_5">
+        "\n"
+        "¿Qué producto ofrece Karatbars International?"
+    </string>
+    <string name="large_text_faqs_6">
+        "El grupo Karatbars ofrece la más extraordinaria gama de productos en el mercado. Los lingotes de oro Karatbars tienen los más altos estándares de calidad."
+        "\n\n"
+        "“Atasay” (en Turquía) es productor y proveedor de nuestros lingotes de oro de un gramo de la marca “ATAKULCHE”. Esta compañía ha sido incluida en el London Bullion Market Association (LBMA), con el sello “Good Delivery” desde 07/05/2010, lo cual garantiza la estabilidad de producción y los suministros. En esta refinería, tenemos nuestra propia cadena de producción, por lo que podemos estar ahí y desarrollar nuestra propia producción, independientemente de las operaciones diarias de la refinería."
+        "\n\n"
+        "Además, Karatbars y de forma más reciente, se ha asociado con la mejor productora de oro de Alemania, “Degussa” y con “Nadir Metal”, que junto con Atasay, son las mejores productoras de Turquía."
+        "\n\n"
+        "En nuestros productos destacados, podemos recomendar las tarjetas de países, con nuestro oro de 1 gramo. Son tarjetas especiales, y con gloriosos colores mostrando las respectivas banderas nacionales. Estos lingotes de oro Karatbars se caracterizan por su distinción y acabado de la más alta calidad."
+        "\n\n"
+        "Usted también tiene la oportunidad de adquirir tarjetas de oro de colección y de edición limitada. Nuestro objetivo es ofrecer ediciones diferentes con una variedad de temas interesantes. Dado que a menudo necesitamos una licencia para estas tarjetas, el precio difiere un poco de la tarjeta de oro normal."
+        "\n\n"
+        "Karatbars International, solo ofrece lingotes de oro puro, de 999,9, de la más alta calidad en producción y con las mejores certificaciones y apoyos."
+        "\n"
+    </string>
+    <string name="large_text_faqs_7">
+        "\n"
+        "¿De verdad es oro?"
+    </string>
+    <string name="large_text_faqs_8">
+        "Sí, los lingotes de 1 gramo, 2.5 gramos y 5 gramos son de oro de 24 quilates de una pureza del 999% de refinerías certificadas por la London Bullion Market Association(LBMA)."
+        "\n"
+    </string>
+    <string name="large_text_faqs_9">
+        "\n"
+        "¿Por qué los lingotes son tan pequeños?"
+    </string>
+    <string name="large_text_faqs_10">
+        "Porque la misión de Karatbars es ofrecer a las gentes de todo tipo y condición la posibilidad de acceder al ahorro con oro. Las personas con pocos ingresos pueden ya ahorrar con oro, cosa que antes no les era posible. Y las personas con altos ingresos tienen la posibilidad de conseguir su oro de una manera cómoda, discreta, y fácil de almacenar y transportar."
+        "\n"
+    </string>
+    <string name="large_text_faqs_11">
+        "\n"
+        "¿Puedo obtener consejos sobre mi decisión de compra?"
+    </string>
+    <string name="large_text_faqs_12">
+        "Nuestro equipo está a nivel mundial durante todo el día. También proporcionamos información y presentaciones de video para que puedas aprender en detalle por qué usted debe invertir en oro. La decisión de cuándo y cuánto invertir en oro, sin embargo, depende de usted. Para ayudarle a tomar una decisión consensuada y con lo que ofrecemos, puede, de forma gratuita, suscribirse a nuestro boletín de noticias para tener actualizaciones y novedades sobre los acontecimientos actuales del mercado."
+        "\n"
+    </string>
+    <string name="large_text_faqs_13">
+        "\n"
+        "¿Son caros los lingotes de Karatbars?"
+    </string>
+    <string name="large_text_faqs_14">
+        "En absoluto, todas las empresas distribuidoras de oro añaden un Premium al precio de mercado que es su margen de beneficios. El precio de los lingotes de Karatbars es precisamente el del mercado diario más el Premium, por eso cambia. Además, existe un bono de descuento anual del 3%. Puede que haya empresas que pongan el precio del gramo algo más barato, aunque otras muchas lo ponen incluso más caro.  La ventaja es que Karatbars reparte parte de ese Premium con sus afiliados mediante comisiones. Y de esa manera, el precio real de cada gramo de oro puede acabar siendo mucho más bajo que el propio precio del mercado, incluso que lo cubra por completo y salga gratis."
+        "\n"
+    </string>
+    <string name="large_text_faqs_15">
+        "\n"
+        "¿Cómo puedo adquirir los lingotes Karatbars?"
+    </string>
+    <string name="large_text_faqs_16">
+        "A través de la web de Karatbars, inscribiéndose como “cliente” o “afiliado”."
+        "\n"
+    </string>
+    <string name="large_text_faqs_17">
+        "\n"
+        "¿Qué tipos de pagos aceptan?"
+    </string>
+    <string name="large_text_faqs_18">
+        "Se puede pagar con tarjeta de débito, crédito o prepago; con e-wallet; y en ciertos países mediante transferencia bancaria."
+        "\n"
+    </string>
+    <string name="large_text_faqs_19">
+        "\n"
+        "¿Me envían el oro a casa?"
+    </string>
+    <string name="large_text_faqs_20">
+        "Sí, Karatbars envía los lingotes de forma física a través del servicio de mensajería FEDEX."
+        "\n"
+    </string>
+    <string name="large_text_faqs_21">
+        "\n"
+        "¿Cuánto tardaré en recibir el oro?"
+    </string>
+    <string name="large_text_faqs_22">
+        "El plazo máximo de recepción es de seis semanas si se paga con tarjeta, pues se fabrica según demanda, no obstante, en este momento la media es de unas tres semanas."
+        "\n"
+    </string>
+    <string name="large_text_faqs_23">
+        "\n"
+        "¿Pueden almacenar mi oro?"
+    </string>
+    <string name="large_text_faqs_24">
+        "Sí, también se puede almacenar el oro de forma gratuita en las bóvedas propias de Karatbars en Alemania con máxima seguridad, vigilado por la empresa PROSEGUR."
+        "\n"
+    </string>
+    <string name="large_text_faqs_25">
+        "\n"
+        "¿Es Karatbars Internacional un banco?"
+    </string>
+    <string name="large_text_faqs_26">
+        "No. Karatbars International es una empresa privada e independiente, con sede física, y con presencia en Internet, para compra y venta de oro en pequeñas unidades. Trabajamos en más de 120 países de todo el mundo, ofreciendo no sólo las tarjetas “normales” con lingote de oro, sino también tarjetas de países y tarjetas de colección de ediciones limitadas. A través de contratos directos con los productores, trabajamos sin intermediarios, lo que nos permite ofrecer precios razonables y competitivos, y condiciones justas."
+        "\n"
+    </string>
+    <string name="large_text_faqs_27">
+        "\n"
+        "¿Por qué Karatbars es más barato que un banco?"
+    </string>
+    <string name="large_text_faqs_28">
+        "Karatbars es una empresa comercial independiente, con presencia en Internet y no un banco. Como proveedor directo, nos abastecemos de los más competitivos en el mercado y vendemos en nuestra tienda en línea 24/7 para nuestros clientes globales. El Internet nos permite sinergias y ventajas de costes que lo beneficia directamente a usted. Esto nos permite hacer nuestros precios y condiciones lo más competitivo posible para usted."
+        "\n"
+    </string>
+    <string name="large_text_faqs_29">
+        "\n"
+        "¿Cómo garantiza Karatbars, la seguridad de mis datos durante la transacción a través de Internet?"
+    </string>
+    <string name="large_text_faqs_30">
+        "Garantizamos la transmisión segura de datos mediante el uso del protocolo Secure Sockets Layer (SSL). Con SSL, su información y datos de carácter personal, que usted ingrese en nuestro sitio Web cifrado, están asegurados, por lo que sólo puede ser leído por nosotros."
+        "\n\n"
+        "El protocolo de cifrado SSL se ha establecido como el estándar del mercado para los datos a través de Internet y continuamente se está desarrollando. Nuestra política de privacidad es total, consulte la sección “Privacidad” en el pie de página de nuestro sitio web."
+        "\n"
+    </string>
+    <string name="large_text_faqs_31">
+        "\n"
+        "¿Cómo llego a la zona de cliente y lo que se me ofrece?"
+    </string>
+    <string name="large_text_faqs_32">
+        "En primer lugar, debe registrarse de forma gratuita. A continuación, usted recibirá su nombre de usuario y contraseña. Al área cerrada se puede acceder a través del botón “Iniciar sesión” en la esquina superior derecha de la página."
+        "\n\n"
+        "Los clientes y socios de negocios pueden acceder mediante el inicio de sesión, a su plataforma personal con todas las funciones acordadas. Inmediatamente después de la recepción de los formularios de inscripción bien cumplimentados, se puede iniciar de inmediato con Karatbars."
+        "\n\n"
+        "En el área de usuario, encontrará nuestras ofertas y contenidos para clientes específicos y compra."
+        "\n"
+    </string>
+    <string name="large_text_faqs_33">
+        "\n"
+        "¿Ofrece Karatbars un servicio de recompra?"
+    </string>
+    <string name="large_text_faqs_34">
+        "Sí, Karatbars ofrece un servicio de recompra con uno de los más altos precios del mercado."
+        "\n"
+    </string>
+    <string name="large_text_faqs_35">
+        "\n"
+        "¿Puedo comprar en tiendas con mi oro Karatbars?"
+    </string>
+    <string name="large_text_faqs_36">
+        "Sí, Karatbars dispone de una red de comercios asociados que aceptan los lingotes de oro Karatbars como pago para sus artículos y servicios."
+        "\n"
+    </string>
+    <string name="large_text_faqs_37">
+        "\n"
+        "¿Puedo yo también recomendar los lingotes Karatbars y obtener comisiones por ello?"
+    </string>
+    <string name="large_text_faqs_38">
+        "Sí, al inscribirte en la web de Karatbars como “afiliado” obtienes la licencia de distribuidor independiente de Karatbars."
+        "\n"
+    </string>
+    <string name="large_text_faqs_39">
+        "\n"
+        "¿Puedo inscribir también a mi negocio en la red de comercios asociados?"
+    </string>
+    <string name="large_text_faqs_40">
+        "Sí, tras inscribir a tu negocio en la web de Karatbars como “afiliado”, puedes también inscribirlo en la red de comercios asociados mediante el programa K-Exchange."
+        "\n"
+    </string>
+    <string name="large_text_faqs_41">
+        "\n"
+        "¿Hay que pagar para unirse a Karatbars como afiliado?"
+    </string>
+    <string name="large_text_faqs_42">
+        "La inscripción como afiliado en Karatbars es gratuita y puedes comenzar inmediatamente a recomendar y vender oro Karatbars."
+        "\n"
+    </string>
+    <string name="large_text_faqs_43">
+        "\n"
+        "¿Qué comisiones recibo como afiliado?"
+    </string>
+    <string name="large_text_faqs_44">
+        "La inscripción gratuita como afiliado da derecho a obtener una comisión por volumen. Además, existe la posibilidad de adquirir unos “paquetes de franquicia” que abren un abanico de otros tipos de comisiones muy importantes."
+        "\n"
+    </string>
+    <string name="large_text_faqs_45">
+        "\n"
+        "¿Cómo paga Karatbars sus comisiones?"
+    </string>
+    <string name="large_text_faqs_46">
+        "Karatbars paga a sus afiliados mediante una tarjeta de prepago emitida por MasterCard, no enlazada a ninguna cuenta bancaria, y a través de un sistema bancario propio llamado “e-wallet”. Karatbars se preocupa así por la auténtica independencia financiera de sus afiliados."
+        "\n"
+    </string>
+    <string name="large_text_faqs_47">
+        "\n"
+        "Mi primera venta en línea, ¿cómo funciona?"
+    </string>
+    <string name="large_text_faqs_48">
+        "Cómodo y sin complicaciones. Si usted ha almacenado su oro con Karatbars:"
+        "\n\n"
+        "En primer lugar, usted nos da una orden de venta en línea por correo electrónico con su número de cuenta."
+        "\n"
+        "En segundo lugar, su oro será vendido desde su cuenta en línea al precio actual de re-compra."
+        "\n"
+        "En tercer lugar, recibirá su dinero dentro de unos pocos días en su cuenta."
+        "\n\n"
+        "Si usted guardó su oro personalmente:"
+        "\n\n"
+        "En primer lugar, comuníquenos mediante correo electrónico, cuánto oro nos entrega, incluyendo su número de cuenta."
+        "\n"
+        "En segundo lugar, recibirá una oferta en firme con los valores de acuerdo a nuestro precio de mercado Karatbars."
+        "\n"
+        "En tercer lugar, nuestro asociado de logística busca los bienes en nombre de usted."
+        "\n"
+        "En cuarto lugar, examinamos la autenticidad y reciclabilidad de sus bienes. Si todo resulta bien, lo antes posible, el precio de compra acordado, menos los costos de traslado se acreditan en la cuenta especificada por usted, o:"
+        "\n"
+        "En quinto lugar, si sus bienes son devueltos a su estado original, contrario a las expectativas, nos contactamos con usted por vía telefónica."
+        "\n"
+    </string>
+    <string name="large_text_faqs_49">
+        "\n"
+        "Me gustaría cambiar mi contraseña. ¿Cómo?"
+    </string>
+    <string name="large_text_faqs_50">
+        "Para cambiar su contraseña, por favor ingrese con los datos de acceso anteriores en “Mi Karatbars”, uno vaya a “Perfil” y luego “Editar contraseña”. Ahora podrá cambiar fácilmente su contraseña."
+        "\n"
+    </string>
+    <string name="large_text_faqs_51">
+        "\n"
+        "Mensajes de Error. ¿Quién puede ayudarme?"
+    </string>
+    <string name="large_text_faqs_52">
+        "¿Usted tiene un mensaje de error en la pantalla? No se preocupe, nuestro servicio de PyR (Preguntas y Respuestas) ofrece asistencia virtual. Simplemente haga clic al extremo superior derecho de “PyR” y haga clic en la pregunta apropiada."
+        "\n"
+    </string>
+    <string name="large_text_faqs_53">
+        "\n"
+        "¿La respuesta no es la correcta?"
+    </string>
+    <string name="large_text_faqs_54">
+        "Por favor, comuníquese con nosotros mediante correo electrónico a support@karatbars.com Nos comunicaremos con usted lo antes posible dentro de las próximas 24 horas."
+        "\n"
+    </string>
+    <string name="large_text_faqs_55">
+        "\n"
+        "¿Cuáles son los costos de entrega y recepción?"
+    </string>
+    <string name="large_text_faqs_56">
+        "Los costos de envío y entrega dependen tanto del valor como de la cantidad de los bienes, además del método de envío y el peso. Los costos de entrega relevantes se muestran en el proceso de pago. Nota: ¡La tarjeta con el lingote de 1 gramo pesa unos 8 g! Esto significa que, si le enviamos 100 g de oro, esto es un peso total de 800 g."
+        "\n"
+    </string>
+    <string name="large_text_faqs_57">
+        "\n"
+        "¡Mis bienes aún no han llegado! ¿Quién puede ayudarme?"
+    </string>
+    <string name="large_text_faqs_58">
+        "Si usted ya ha recibido notificación por correo electrónico de que su mercancía ha sido entregada a la empresa de logística y, sin embargo, ha pasado un día y no se ha recibido una solicitud de una fecha de entrega de la empresa de logística, entonces debe saber:"
+        "\n\n"
+        "En casos excepcionales (huelga aérea o condiciones climáticas adversas), puede haber retrasos ocasionales. Si este fuera el caso, avisamos nosotros inmediatamente para que podamos cuidar el paradero de su entrega. Nos sentamos con nuestro socio de logística y siempre aclaramos los hechos para usted. A través de FedEx, usted recibirá un número de transacción. Allí usted puede ver exactamente donde está su paquete en el momento."
+        "\n"
+    </string>
+    <string name="large_text_faqs_59">
+        "\n"
+        "¿Qué pasa si no estoy en casa en el momento de la entrega?"
+    </string>
+    <string name="large_text_faqs_60">
+        "Tienes que estar en casa en el momento de la entrega para firmar la recepción su paquete. Si usted no está en casa durante el tiempo especificado nuestro socio de logística dejará la notificación en el buzón de correo electrónico. Tenga en cuenta, en este caso, que tendrá que ponerse en contacto con la empresa de logística para una nueva cita. Tendrán que ser asumidos por usted cualquier gasto o re-envío adicionales. Pedimos disculpas por cualquier inconveniente que esto pueda causar. Gracias."
+        "\n"
+    </string>
+    <string name="large_text_faqs_61">
+        "\n"
+        "¿Qué hacer si la entrega es incompatible con el contenido del envío?"
+    </string>
+    <string name="large_text_faqs_62">
+        "Karatbars ha proporcionado distintos controles de seguridad. En una secuencia optimizada de chequeos, el contenido de su envío se pesa electrónicamente bajo vigilancia de vídeo y se compara con el peso teórico calculado."
+        "\n\n"
+        "Si a pesar de todos los controles a la hora del envío, existen discrepancias, por favor infórmenos inmediatamente."
+        "\n"
+    </string>
+    <string name="large_text_faqs_63">
+        "\n"
+        "¿Qué es “Mi Karatbars” y cuáles son los beneficios para mí?"
+    </string>
+    <string name="large_text_faqs_64">
+        "“Mi Karatbars” es su propio acceso al mundo virtual del comercio de Karatbars."
+        "\n\n"
+        "Ofrece funciones sencillas y convenientes para su compra o venta de lingotes de oro y productos de comercialización, y brinda información valiosa y actual sobre el mercado de metales preciosos. Brindamos un comercio en línea de oro."
+        "\n\n"
+        "Con la función “Mi Karatbars” siempre tendrá una vista general de sus órdenes y ventas actuales. Bajo el Botón “Cuenta de Oro” y “Vista General de Cuenta” recibirá el historial de sus compras. “Mi Karatbars” maneja datos principales como información de cuenta, direcciones de envío y su correspondencia con Karatbars. También encontrará todas las formas y documentos disponibles para descargar."
+        "\n\n"
+        "Lo que desee hacer: tiene la oportunidad en “su” Karatbars para “hacerlo usted mismo”."
+        "\n"
+    </string>
+    <string name="large_text_faqs_65">
+        "\n"
+        "¿Qué pasa con la información que les he dado a ustedes?"
+    </string>
+    <string name="large_text_faqs_66">
+        "Cierta información que recogemos para procesar la transacción. Tratamos toda la información de forma confidencial y con absoluto cuidado. Queda excluida una transferencia de datos o un acceso por parte de personas no autorizadas. Sus datos se almacenan solamente en nuestra empresa. Todos nuestros empleados están sujetos a un acuerdo de confidencialidad y nos comprometemos a usar dicha información únicamente con el fin de procesar sus transacciones con Karatbars."
+        "\n"
+    </string>
+    <string name="large_text_faqs_67">
+        "\n"
+        "¿Con quién debo ponerme en contacto en caso de olvidar mi contraseña?"
+    </string>
+    <string name="large_text_faqs_68">
+        "Puede solicitar instantáneamente su nueva contraseña en línea. Vaya a la página de INICIO DE SESIÓN y haga clic en el cuadro de entrada adecuado bajo el botón “¿Contraseña Olvidada?”. Usted recibirá inmediatamente un correo electrónico de nuestro Equipo de Soporte."
+        "\n"
+    </string>
+    <string name="large_text_faqs_69">
+        "\n"
+        "¿Qué ventajas tengo cuando compro o vendo metales preciosos en Karatbars?"
+    </string>
+    <string name="large_text_faqs_70">
+        "Tanto si compra como si vende, con Karatbars obtiene calidad y precio. Porque trabajamos directamente con los productores y las refinerías, ¡sin intermediarios! Tenemos nuestra propia línea de producción en la refinería ATAKULCHE en Turquía (Estambul). Por eso podemos controlar el volumen de producción, para poder suministrar de forma rápida a nuestros clientes."
+        "\n\n"
+        "Una producción con entrega puede llevar hasta 6 semanas (dependiendo del país). Hablamos de tiempo máximo siempre. Para España, por ejemplo, los envíos del oro pueden tardar hasta 2 semanas en la actualidad. Inmediatamente después de recibir el pago se hará el pedido de las mercancías al productor. Incluso si tiene una solicitud especial, estaremos encantados de suministrarle."
+        "\n\n"
+        "A diferencia de otras casas de comercio de oro, nosotros obtenemos el oro directamente del productor. Traducimos esta ventaja en mejorar los precios para usted y para nuestros socios de negocio."
+        "\n"
+    </string>
+    <string name="large_text_faqs_71">
+        "\n"
+        "¿Cómo puedo hacer un pedido en Karatbars?"
+    </string>
+    <string name="large_text_faqs_72">
+        "Es muy fácil. Entre ahora con sus datos de acceso, en su área administrativa personal. Clic en Perfil y en KYC, estos son los documentos para confirmar su identificación. Debe enviar los documentos solicitados. En 24 horas máximo, será usted activado."
+        "\n\n"
+        "Vaya entonces a Comprar Oro, seleccione la categoría deseada e introduzca la cantidad deseada. En unos minutos podrá solicitar su/s Tarjeta/s de Oro. Si paga con tarjeta de crédito, el número de lingotes de su compra se muestra en tiempo real."
+        "\n\n"
+        "Si usted quiere realizar una transferencia, haga clic en Transferencia Bancaria. Se generará un archivo PDF con su nombre de usuario y su número de ID personal (por favor, especifique siempre en las transferencias). Si usted se desplaza hacia abajo en el archivo PDF encontrará los detalles bancarios. Usted debe transferir el monto de la factura."
+        "\n\n"
+        "Le informamos sobre sus pagos a nuestra cuenta desde su cuenta de oro en su área personal. El oro que usted compra siempre es confirmado. Sus bienes serán contabilizados siempre por nuestro personal, 2 personas de Karatbars y una cámara de vigilancia de video."
+        "\n\n"
+        "Nuestros asociados de logística se comunicarán con usted para acordar un horario de entrega que le resulte conveniente. Mediante FedEx, usted incluso puede rastrear la entrega por Internet."
+        "\n"
+    </string>
+    <string name="large_text_faqs_73">
+        "\n"
+        "¿Puedo yo vender mi oro Karatbars?"
+    </string>
+    <string name="large_text_faqs_74">
+        "Por supuesto que puede también vendernos sus metales preciosos. Cómodo y sin complicaciones."
+        "\n"
+    </string>
+    <string name="large_text_faqs_75">
+        "\n"
+        "¿Hay que renovar la licencia cada año mediante un pago?"
+    </string>
+    <string name="large_text_faqs_76">
+        "La inscripción como afiliado es gratuita y no hay que renovarla cada año. Los paquetes de franquicia se adquieren solo una vez y no hay que renovarlos cada año."
+        "\n"
+    </string>
+    <string name="large_text_faqs_77">
+        "\n"
+        "¿Hay que comprar stock cada mes para cobrar?"
+    </string>
+    <string name="large_text_faqs_78">
+        "El cobro de comisiones no depende de ninguna compra mensual personal. Es más, en el negocio de Karatbars no es necesario mantener ningún stock porque los clientes compran directamente a través de la web, y Karatbars se encarga de todo el proceso."
+        "\n"
+    </string>
+    <string name="large_text_faqs_79">
+        "\n"
+        "¿Es el sistema de negocio Karatbars un esquema piramidal?"
+    </string>
+    <string name="large_text_faqs_80">
+        "En absoluto, Karatbars es una empresa legal de comercio electrónico que cumple con toda la legislación vigente en cada país en el que está operativo."
+        "\n"
+    </string>
+    <string name="large_text_faqs_81">
+        "\n"
+        "¿Porque es necesario el KYC?"
+    </string>
+    <string name="large_text_faqs_82">
+        "KYC significa Know Your Customer (Conoce a tu Cliente). A fin de poder realizar compras de productos de oro Karatbars, será necesario verificar su identidad y residencia. Después de la aprobación, podrá realizar su primera compra. Por favor asegúrese de que sus documentos cumplan los siguientes requisitos:"
+        "\n\n"
+        "1. Identificación gubernamental válida escaneada a color. El nombre deberá ser el mismo que en el Back Office. La fotografía debe de ser claramente visible, así como la fecha de nacimiento y vigencia."
+        "\n"
+        "2. Recibo de servicios (gas, teléfono, agua, etc.) NO mayor a seis meses. El nombre de la compañía deberá ser claro, así como su nombre, dirección y fecha de expedición. NO SON ACEPTADOS SOBRES, CAPTURAS DE PANTALLA O DOCUMENTOS ELECTRÓNICOS."
+        "\n\n"
+        "Para empresas, será necesaria documentación adicional:"
+        "\n\n"
+        "3. Documentos de incorporación, documentos de la organización, etc. (documentación completa tal cual fue ingresada a su Estado o Gobierno). Las compañías registradas en Karatbars deberán estar en una “Buena Posición”."
+        "\n"
+        "4. Evidencia de que la persona que ingrese la documentación está autorizada para contratar y realizar transacciones comerciales en nombre de la Compañía."
+        "\n"
+        "5. EIN/VAT, etc. documento."
+        "\n\n"
+        "TOME EN CUENTA: Karatbars verifica la información con diferentes reguladores, pero puede darse el caso de requerir documentación adicional por parte de los afiliados o dependiendo de la situación. IMPORTANTE: El documento de identificación y el comprobante de domicilio y/o el documento de registro de la empresa debe de ser guardados en archivos diferentes. Sin embargo, el documento de registro de la compañía deberá subirse dentro de un solo PDF ya que es considerado un solo paquete de información. Lo anterior acelerará el proceso de aprobación."
+        "\n"
+    </string>
+    <string name="large_text_faqs_83">
+        "\n"
+        "¿CÓMO CONTACTO CON KARATBARS?"
+    </string>
+    <string name="large_text_faqs_84">
+        "Karatbars International GmbH"
+        "\n"
+        "Vaihingerstrasse 149a"
+        "\n"
+        "70567 Stuttgart, Deutschland"
+        "\n"
+        "EUROPA Soporte: +49 711 128 970 00"
+        "\n"
+        "US Soporte: + 1 224 829 00 47"
+        "\n"
+    </string>
+    <string name="large_text_faqs_contacto">
+        "\n"
+        "Manager Hispana, Elizabeth Cruz: elizabeth.cruz@karatbars.com"
+        "\n"
+        "Todo lo relacionado con mi tarjeta prepago Karatbars MasterCard: debitcard@karatbars.com"
+        "\n"
+        "Solicitudes en español: help@karatbars.com"
+        "\n"
+        "Solicitudes en General: support@karatbars.com"
+        "\n"
+        "Aprobación de KYC: kyc@karatbars.com"
+        "\n"
+        "Todo lo referente a mis envíos: delivery@karatbars.com"
+        "\n"
+        "Branding Cards: brandingcards@karatbars.com"
+        "\n\n\n"
+    </string>
+
+
+
+
+    <!-- String related to About -->
+    <string name="title_activity_about">Acerca</string>
+    <string name="about_version">Versión:</string>
+    <string name="about_email_intent">Acerca:KaratbarsVBC</string>
+    <string name="about_not_found_email">App de correo electrónico no encontrada</string>
+    <string name="about_card1_message">Karatbars Visionary Boys Club te presenta una vía a la libertad financiera. ¿Te unes a nuestro club?</string>
+    <string name="about_card2_title">Si te gustó la aplicación, no dudes en contactarme.</string>
+    <string name="about_google_play">Calificar en Google Play</string>
+    <string name="about_email">Comentarios por correo electrónico</string>
+    <string name="about_address">Habana, Cuba</string>
+    <string name="about_website">Ver mi sitio web</string>
+    <string name="about_source_licenses">Licencias de código abierto</string>
+    <string name="share_with">Compartir con...</string>
+    <string name="about_sigueme_en_fb">Sígueme en Facebook</string>
+    <string name="about_sigueme_en_twitter">Sígueme en Twitter</string>
+    <string name="about_sigueme_en_instagram">Sígueme en Instagram</string>
+    <string name="about_ver_codigo_github">Código fuente en GitHub</string>
+
+
+
+    <!-- String related to Donate -->
+    <string name="activity_donate">Donar</string>
+    <string name="donate">Donar</string>
+    <string name="donated">Donado</string>
+    <string name="donate_title">¡Sería muy agradecido si pudieras donarme!</string>
+    <string name="donate_title_after">Gracias por sus donaciones, estoy muy agradecido!</string>
+    <string name="donate_KBC">KBC</string>
+    <string name="donate_KCB">KCB</string>
+    <string name="donate_BTC">BTC</string>
+    <string name="donate_UNV">UNV</string>
+    <string name="donate_ETH">ETH</string>
+    <string name="donate_exception">Sorry, can not do this!</string>
+
+
+
+
+
+    <!-- String related to NAV-->
+    <string name="nav_header_text">Karatbars Visionary Boys Club</string>
+    <string name="nav_karatbars">Karatbars</string>
+    <string name="nav_crypto">Criptomonedas Karatbars</string>
+    <string name="nav_news">Noticias</string>
+    <string name="nav_faq">FAQs</string>
+    <string name="nav_about">Acerca...</string>
+    <string name="nav_donate">Donar</string>
+    <string name="nav_calificar">Calificar</string>
+    <string name="nav_my_apps">Karatbars Apps</string>
+    <string name="internet_problem">Algo salió mal. Comprueba tu conexión a Internet.</string>
+
+
+
+
+    <string name="name">QRCodeScanner</string>
+    <string name="title_activity_scan_qr_code">Scan</string>
+    <string name="qc_code_close">Close</string>
+    <string name="qr_code_select_picture">Picture</string>
+    <string name="qr_code_open_flash_light">Open flash light</string>
+    <string name="qr_code_close_flash_light">Close Flash Light</string>
+    <string name="qr_code_auto_scan_notification">Position QR Code</string>
+    <string name="qr_code_notification">Notification</string>
+    <string name="qr_code_camera_not_open">Could not open your camera</string>
+    <string name="qr_code_positive_button_know">OK</string>
+    <string name="qr_code_positive_button_confirm">Confirm</string>
+    <string name="qr_code_could_not_read_qr_code_from_picture">Could not read your image.Try another image~</string>
+    <string name="qr_code_could_not_read_qr_code_from_scanner">Sorry, could not open scan content</string>
+    <string name="qr_code_camera_not_found">Could not detect camera</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Strings related to Main -->
+     <string name="navigation_drawer_open">Cajón de navegación abierto.</string>
+     <string name="navigation_drawer_close">Cajón de navegación cerrado.</string>
+
+
+
+
+
+    <string name="main_card4_button_1">Ver Mas...</string>
+    <string name="main_card4_button_2">Mas Aquí</string>
+    <string name="main_card4_text_noticias">Noticias</string>
+    <string name="main_card4_text_apps">Apps</string>
+
+
+
+    <string name="dialog_close">Cerrar</string>
+
+    <!-- Permisos de camera y storage-->
+    <string name="permiso_error">Error Ocurrido!</string>
+    <string name="permiso_necesario_title">Permisos Necesarios</string>
+    <string name="permiso_necesario_subtitle">Esta aplicación necesita permiso para utilizar esta función. Puede otorgarlos en la configuración de la aplicación.</string>
+    <string name="permiso_configuracion">Configuración</string>
+    <string name="permiso_cancelar">Cancelar</string>
+
+
+
+
+
+    <!-- Strings related to Scrolling -->
+
+
+
+
+
+    <!-- Strings related to Fullscreen -->
+
+
+    <!-- String related to RecyclerView -->
+    <string name="title_activity_news">Noticias</string>
+    <string name="tv_recycler_item_1">Swipe down to refresh</string>
+    <string name="tv_recycler_item_2">Swipe left or right to dismiss it</string>
+    <string name="tv_recycler_item_3">Drag up or down to move it</string>
+    <string name="title_activity_share_view">Share View</string>
+    <string name="share_view_press_it">Puedes presionarlo</string>
+    <string name="no_more_data">No mas datos</string>
+    <string name="item_swipe_dismissed">Rechazado</string>
+    <string name="item_swipe_undo">Anular</string>
+
+
+
+
+
+
+
+
+
+    <!-- String related to app short cuts -->
+    <string name="shortcut_label_recycler">Recycler View</string>
+    <string name="shortcut_label_scrolling">Scrolling</string>
+    <string name="shortcut_label_about">Acerca</string>
+
+    <!-- String related to My Apps -->
+    <string name="activity_my_apps">Karatbars Apps</string>
+
+</resources>

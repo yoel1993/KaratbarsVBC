@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    android:id="@+id/card_view_item_recycler_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/card_margin_vertical_big_activity"
+    android:layout_marginEnd="@dimen/card_margin_horizontal_big_activity"
+    android:layout_marginStart="@dimen/card_margin_horizontal_big_activity"
+    android:layout_marginTop="@dimen/card_margin_vertical_big_activity"
+    android:background="@color/white"
+    android:foreground="?attr/selectableItemBackground"
+    card_view:cardCornerRadius="@dimen/card_recycler_corner_radius"
+    card_view:cardElevation="@dimen/card_recycler_elevation">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/text_margin">
+
+        <ImageView
+            android:id="@+id/pic"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/text_margin"
+            android:backgroundTint="@color/gray_light"
+            android:transitionName="shareView"
+            app:srcCompat="@drawable/ic_launcher_big" />
+
+        <TextView
+            android:id="@+id/autor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/pic"
+            android:text="@string/tv_recycler_item_1"
+            android:textColor="@color/colorPrimary"
+            android:textSize="16sp"
+            android:layout_toRightOf="@id/pic" />
+
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/autor"
+            android:layout_marginTop="@dimen/text_margin_very_small"
+            android:layout_toEndOf="@id/pic"
+            android:text="@string/tv_recycler_item_2"
+            android:layout_toRightOf="@id/pic" />
+
+    </RelativeLayout>
+
+
+
+
+</android.support.v7.widget.CardView>

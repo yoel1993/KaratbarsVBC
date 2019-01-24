@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".DonateActivity"
+    tools:showIn="@layout/activity_donate">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/text_margin"
+        android:paddingTop="@dimen/text_margin">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/relative_boton_scanner"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true">
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/relative_donate_kbc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@id/relative_boton_scanner">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/img_donate_kbc"
+                android:padding="@dimen/text_margin"
+                android:text="@string/donate_KBC"
+                android:textColor="@color/colorAccent"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/img_donate_kbc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/text_margin"
+                android:src="@drawable/kbc_donate_kcb_unv"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:id="@+id/btn_donate_kbc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/text_margin"
+                android:text="@string/donate" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/relative_donate_kcb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/relative_donate_kbc"
+            android:layout_alignParentStart="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/img_donate_kcb"
+                android:padding="@dimen/text_margin"
+                android:text="@string/donate_KCB"
+                android:textColor="@color/colorAccent"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/img_donate_kcb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/text_margin"
+                android:src="@drawable/kbc_donate_kcb_unv"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:id="@+id/btn_donate_kcb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/text_margin"
+                android:text="@string/donate" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+        android:id="@+id/relative_donate_btc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relative_donate_kcb"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toEndOf="@+id/img_donate_btc"
+            android:padding="@dimen/text_margin"
+            android:text="@string/donate_BTC"
+            android:textColor="@color/colorAccent"
+            android:textSize="18sp" />
+
+            <ImageView
+            android:id="@+id/img_donate_btc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/text_margin"
+            android:src="@drawable/btc_donate"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+            <Button
+                android:id="@+id/btn_donate_btc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/text_margin"
+                android:text="@string/donate" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/relative_donate_eth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@+id/relative_donate_btc"
+            android:layout_alignParentStart="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/img_donate_eth"
+                android:padding="@dimen/text_margin"
+                android:text="@string/donate_ETH"
+                android:textColor="@color/colorAccent"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/img_donate_eth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/text_margin"
+                android:src="@drawable/eth_donate"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:id="@+id/btn_donate_eth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/text_margin"
+                android:text="@string/donate" />
+        </RelativeLayout>
+
+
+
+
+    </RelativeLayout>
+</android.support.v4.widget.NestedScrollView>
