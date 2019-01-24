@@ -101,7 +101,7 @@ public class NewsActivity extends AppCompatActivity implements ExampleAdapter.On
 
     private void parseJSON() {
 
-                      //https://raw.githubusercontent.com/yoel1993/KaratbarsVBC/master/server.json
+
         String url = "https://raw.githubusercontent.com/yoel1993/KaratbarsVBC/master/server.json";
 
 

@@ -3,7 +3,7 @@ package com.yoelrp.karatbarsvbc;
 
 public class Constant {
 
-    public static String APP_URL = "https://play.google.com/store/apps/details?id=com.karatbarsvbc.yoelrp";
+    public static String APP_URL = "https://play.google.com/store/apps/details?id=com.yoelrp.karatbarsvbc";
     private static String DESIGNED_BY = "Designed by YoelRP in Cuba";
     public static String SHARE_CONTENT = "A beautiful application designed with Material Design:\n" + APP_URL + "\n- " + DESIGNED_BY;
     public static String EMAIL = "mailto:tu.futuro.con.oro@gmail.com";
