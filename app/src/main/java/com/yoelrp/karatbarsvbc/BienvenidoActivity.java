@@ -13,9 +13,10 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
+import android.widget.ImageView;
 
 
-
+import com.bumptech.glide.Glide;
 import com.yoelrp.karatbarsvbc.YouTubeVideo.VideoBienvenidoActivity;
 
 public class BienvenidoActivity extends AppCompatActivity {
@@ -26,19 +27,6 @@ public class BienvenidoActivity extends AppCompatActivity {
         setContentView(R.layout.activity_bienvenido);
 
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);
-
-
-        Button btnvideo=(Button) findViewById(R.id.boton_bienvenido_video);
-        btnvideo.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent=new Intent(getApplicationContext(), VideoBienvenidoActivity.class);
-                startActivity(intent);
-            }
-        });
-
-
-
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar_scrolling_bienvenido);
         setSupportActionBar(toolbar);
@@ -58,6 +46,17 @@ public class BienvenidoActivity extends AppCompatActivity {
             }
         });
 
+        Button btnvideo=(Button) findViewById(R.id.boton_bienvenido_video);
+        btnvideo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(getApplicationContext(), VideoBienvenidoActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        ImageView imageView=(ImageView) findViewById(R.id.image_scrolling_bienvenido);
+        Glide.with(this).load(R.drawable.targetas_nuevas).into(imageView);
     }
 
     @Override

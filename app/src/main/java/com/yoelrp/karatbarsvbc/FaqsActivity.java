@@ -11,7 +11,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.WindowManager;
+import android.widget.ImageView;
 
+import com.bumptech.glide.Glide;
 
 
 /**
@@ -45,8 +47,8 @@ public class FaqsActivity extends AppCompatActivity {
             }
         });
 
-        //ImageView image_scrolling_top = (ImageView) findViewById(R.id.image_scrolling_top);
-        //Glide.with(this).load(R.drawable.karat_business).apply(new RequestOptions().fitCenter()).into(image_scrolling_top);
+        ImageView imageView = (ImageView) findViewById(R.id.image_scrolling_faqs);
+        Glide.with(this).load(R.drawable.karatbars_0).into(imageView);
     }
 
     @Override
