@@ -286,6 +286,11 @@ public class MainActivity extends AppCompatActivity
                 intent3.setAction(Intent.ACTION_VIEW);
                 startActivity(intent3);
                 break;
+            case R.id.action_menu_main_4:
+                Intent intent4 = new Intent(this,IdiomaActivity.class);
+                startActivity(intent4);
+                break;
+
         }
         return super.onOptionsItemSelected(item);
     }
