@@ -13,8 +13,17 @@
         app:showAsAction="never" />
     <item
         android:id="@+id/action_menu_main_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:orderInCategory="1"
         android:title="@string/nav_calificar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_menu_main_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orderInCategory="1"
+        android:title="@string/nav_idioma"
         app:showAsAction="never" />
 
 </menu>
